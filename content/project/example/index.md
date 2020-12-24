@@ -1,9 +1,9 @@
 ---
-title: Research Proposal
-summary: The trap of freedom: Schedule flexibility and labor process control in China golf training industry.
+title: Research Proposal - The trap of freedom
+summary: Schedule flexibility and labor process control in China golf training industry.
 tags:
 - research proposal
-date: "2020-12-20T00:00:00Z"
+date: "2020-12-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
