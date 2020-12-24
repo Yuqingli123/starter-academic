@@ -1,38 +1,37 @@
 ---
-title: "An example conference paper"
+title: "Confronting online scrutiny"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2020-12-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-12-17T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Intersect: The Stanford Journal of Science, Technology, and Society*
+publication_short: In *Intersect*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The internet has been tightly censored in many countries to strengthen political control over the years. On the one hand, the suppression of public communication provides opportunities for researchers to study the mechanism of internet and state control in authoritarian countries. On the other hand, many social scientists themselves confront tightening online censorship during research activities. Internet scrutiny is complicating the situation of social science research nowadays. In this article, I will draw on my own research experience of internet censorship in China and discuss how researchers could better formulate research questions and collect online data in the context of internet scrutiny. Beyond that, I call for an active attitude in tackling the problem and discuss attempts and strategies to navigate sensitivity during research.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -40,9 +39,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+ links:
+ - name: Link
+   url: https://ojs.stanford.edu/ojs/index.php/intersect/article/view/1651
 
 url_pdf: ''
 url_code: ''
