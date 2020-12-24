@@ -30,7 +30,7 @@ education:
     year: 2020 - 2021 (expected)
   - course: BSc in Statistics
     institution: Chinese University of Hong Kong, Shenzhen
-    year: 2016-2020
+    year: 2016 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,9 +44,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
