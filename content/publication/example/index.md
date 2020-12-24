@@ -39,7 +39,7 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
- links:
+links:
  - name: Link
    url: https://ojs.stanford.edu/ojs/index.php/intersect/article/view/1651
 
