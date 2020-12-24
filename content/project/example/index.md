@@ -9,7 +9,7 @@ date: "2020-12-20T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo taken in fieldwork
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 # links:
