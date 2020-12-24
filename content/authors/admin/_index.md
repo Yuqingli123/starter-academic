@@ -55,6 +55,6 @@ email: ""
 highlight_name: false
 ---
 
-I am currently a master student at University of Chicago studying Sociology. My research interests include work and occupation, gender inequality in the workplace, and sociology of sports. Prior to studying at UChicago, I received my bachelor's degree in Statistics at Chinese University of Hong Kong, Shenzhen. I am looking forward to an opportunity to conduct a labor study research in a research master program (Please see the research proposal in "Projects").
+I am a master student at the University of Chicago studying Sociology. My research interests include work and occupation, gender inequality in the workplace, and sociology of sports. Prior to studying at UChicago, I received my bachelor's degree in Statistics from the Chinese University of Hong Kong, Shenzhen. I am looking forward to an opportunity to study in a research master program (Please see the research proposal in "Projects").
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
