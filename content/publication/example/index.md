@@ -39,9 +39,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links:
- - name: Link
-   url: https://ojs.stanford.edu/ojs/index.php/intersect/article/view/1651
+# links:
+# - name: Link
+#   url: https://ojs.stanford.edu/ojs/index.php/intersect/article/view/1651
 
 url_pdf: ''
 url_code: ''
@@ -64,15 +64,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+# projects:
+# - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}
