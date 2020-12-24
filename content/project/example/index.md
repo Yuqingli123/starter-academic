@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+full article: 'example/research-proposal.pdf'
 ---
 Flexibility in the workplace is often portrayed as a positive image in the public discussion: the temporal and locational flexibility allow workers to better coordinate their lives and work responsibilities. Employers use ‘flexibility’ as an attraction to advertise their job positions, claiming that their employees could gain more control about when, where, and how long they work. The advancement of technology and the innovation of the post-Fordist production system prompt the rise of the fragmentation of tasks, the decentralized and dispersed working locations, and part-time jobs. The growing popularity of flexible jobs invites labor sociologists to critically examine the employment precariousness, income insecurity, and the gendering of flexible work. Yet, the distinctive role of schedule flexibility playing in the labor process is not fully discussed. Moreover, schedule flexibility exists in a much wider context besides the newly emerged flexible jobs. It plays an important role in many conventional yet rarely studied professions, such as the sports industry, media and cultural industry, and academic institutions. While the word flexibility seems at odds with control, this research intends to examine the role of schedule flexibility in the labor process control and its gendered outcome, with an empirical investigation of the working experience of female and male golf coaches in China. 
 
