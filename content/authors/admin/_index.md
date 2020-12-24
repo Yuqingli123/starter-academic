@@ -55,8 +55,6 @@ email: ""
 highlight_name: false
 ---
 
-Yuqing Li is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a master student at University of Chicago studying Sociology. My research interests include work and occupation, gender inequality in the workplace, and sociology of sports. Prior to studying at UChicago, I received my bachelor's degree in Statistics at Chinese University of Hong Kong, Shenzhen. I am looking forward to an opportunity to conduct a labor study research in a research master program (Please see the research proposal in "Projects").
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
