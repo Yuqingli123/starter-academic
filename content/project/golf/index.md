@@ -1,5 +1,5 @@
 ---
-title: The Social Structure of the Sports Economy: An Inquiry on Chinese Golf Trainer’s Labor Market.
+title: The Social Structure of the Sports Economy An Inquiry on Chinese Golf Trainer’s Labor Market.
 summary: This project depicts the social structure of the economy of golf training in China and underlines many common characteristics between the artisits' labor market and the golf trainers' labor market.
 date: "2020-12-10T00:00:00Z"
 
