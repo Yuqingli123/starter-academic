@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Marian Walker**](https://ojs.stanford.edu/ojs/index.php/intersect/article/view/1651)'
+  caption: 'Image credit: **Marian Walker**'
   focal_point: ""
   preview_only: false
 
