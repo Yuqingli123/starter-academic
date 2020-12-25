@@ -5,7 +5,9 @@ title: "Becoming a golf trainer in China The life of an artist?"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Aurelien Boucher
 - admin
+- Xueyun Shao
 
 
 # Author notes (optional)
@@ -13,11 +15,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-12-17T00:00:00Z"
+date: "2020-12-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-17T00:00:00Z"
+publishDate: "2020-12-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +28,13 @@ publishDate: "2020-12-17T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Intersect The Stanford Journal of Science Technology and Society*
-publication_short: In *Intersect The Stanford Journal of Science Technology and Society*
+publication: In *International Journal of Sports Science & Coaching*
+# publication_short: In *Intersect The Stanford Journal of Science Technology and Society*
 
-abstract: The internet has been tightly censored in many countries to strengthen political control over the years. On the one hand, the suppression of public communication provides opportunities for researchers to study the mechanism of internet and state control in authoritarian countries. On the other hand, many social scientists themselves confront tightening online censorship during research activities. Internet scrutiny is complicating the situation of social science research nowadays. In this article, I will draw on my own research experience of internet censorship in China and discuss how researchers could better formulate research questions and collect online data in the context of internet scrutiny. Beyond that, I call for an active attitude in tackling the problem and discuss attempts and strategies to navigate sensitivity during research.
+abstract: This article investigates the earnings of Chinese golf trainers. Through a combination of ethnographic observations, interviews and a quantitative survey analysis, it depicts the social structure of the economy of golf training in China, showing that golf trainers’ playing abilities and reputation, rather than any certificate of competence (e.g., diploma or professional certification), determine their earnings. At the same time, we underline many common characteristics between the artists’ labour market and the golf trainers’ labour market, such as the importance of reputation and a winner-takes-all logic.
 
 # Summary. An optional shortened abstract.
-summary: In this article, I will draw on my own research experience of internet censorship in China and discuss how researchers could better formulate research questions and collect online data in the context of internet scrutiny. Beyond that, I call for an active attitude in tackling the problem and discuss attempts and strategies to navigate sensitivity during research.
+summary: This article depicts the social structure of the economy of golf training in China, showing that golf trainers’ playing abilities and reputation, rather than any certificate of competence determine their earnings. At the same time, we underline many common characteristics between the artists’ labour market and the golf trainers’ labour market, such as the importance of reputation and a winner-takes-all logic.
 
 tags: []
 
