@@ -60,7 +60,7 @@ Camp Devlyn. “Northalsted Business Alliance to Stop Promoting ‘Boystown’ N
 
 Steven Jackson, Nargis Jason. (2017, May 7). Making Chicago’s Boystown. WBEZ91.5CHICAGO. Retrieved from https://interactive.wbez.org/curiouscity/makingboystown/
 
-Washington Laura. (2020, July 19). ‘Boystown’ needs a name that reflects real change. Chicago SunTimes. Retrieved from https://chicago.suntimes.com/columnists/2020/7/19/21328926/laura- washington-boystown-north-halsted-suntimes
+Washington Laura. (2020, July 19). ‘Boystown’ needs a name that reflects real change. Chicago SunTimes. Retrieved from https://chicago.suntimes.com/columnists/2020/7/19/21328926/laura-washington-boystown-north-halsted-suntimes
 
-Friedmann Sarah. (2019, July 25). Examining the Past, Present, and Future of Chicago’s First Gay Neighborhood. Daily Beast. Retrieved from https://www.thedailybeast.com/the-history-of- chicagos-boystown-examining-the-past-present-and-future-of-the-citys-iconic-gay-neighborhood
+Friedmann Sarah. (2019, July 25). Examining the Past, Present, and Future of Chicago’s First Gay Neighborhood. Daily Beast. Retrieved from https://www.thedailybeast.com/the-history-of-chicagos-boystown-examining-the-past-present-and-future-of-the-citys-iconic-gay-neighborhood
 
