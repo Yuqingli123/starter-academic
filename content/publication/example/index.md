@@ -28,7 +28,7 @@ publication_types:["2"]
 publication: In *Intersect: The Stanford Journal of Science, Technology, and Society*
 publication_short: In *Intersect*
 
-abstract: The internet has been tightly censored in many countries to strengthen political control over the years. On the one hand, the suppression of public communication provides opportunities for researchers to study the mechanism of internet and state control in authoritarian countries. On the other hand, many social scientists themselves confront tightening online censorship during research activities. Internet scrutiny is complicating the situation of social science research nowadays. In this article, I will draw on my own research experience of internet censorship in China and discuss how researchers could better formulate research questions and collect online data in the context of internet scrutiny. 
+abstract: The internet has been tightly censored in many countries to strengthen political control over the years. 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
