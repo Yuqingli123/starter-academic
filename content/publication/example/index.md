@@ -26,13 +26,13 @@ publishDate: "2020-12-17T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The Stanford Journal of Science, Technology, and Society*
+publication: In *Intersect: The Stanford Journal of Science, Technology, and Society*
 publication_short: In *Intersect*
 
 abstract: The internet has been tightly censored in many countries to strengthen political control over the years. On the one hand, the suppression of public communication provides opportunities for researchers to study the mechanism of internet and state control in authoritarian countries. On the other hand, many social scientists themselves confront tightening online censorship during research activities. Internet scrutiny is complicating the situation of social science research nowadays. In this article, I will draw on my own research experience of internet censorship in China and discuss how researchers could better formulate research questions and collect online data in the context of internet scrutiny. Beyond that, I call for an active attitude in tackling the problem and discuss attempts and strategies to navigate sensitivity during research.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Marian Walker**](https://ojs.stanford.edu/ojs/index.php/intersect/article/view/1651)'
   focal_point: ""
   preview_only: false
 
@@ -65,23 +65,22 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+# projects:
+# - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+# {{% callout note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+# {{% callout note %}}
+# Create your slides in Markdown - click the *Slides* button to check out the example.
+# {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
