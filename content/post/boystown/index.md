@@ -22,7 +22,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Figure 1. [Photo of buildings in Boystown.] (https://thechicagoinsider.wordpress.com/2013/06/03/boystown-belmont/)'
   focal_point: ""
   placement: 2
   preview_only: false
