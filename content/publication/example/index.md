@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Confronting Online Scrutiny: Doing social science research in the context of internet censorship in China"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -9,9 +9,9 @@ authors:
 
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2020-12-17T00:00:00Z"
 doi: ""
@@ -29,7 +29,7 @@ publication_types: ["2"]
 publication: In *The Stanford Journal of Science Technology and Society*
 publication_short: In *Intersect*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The internet has been tightly censored in many countries to strengthen political control over the years. On the one hand, the suppression of public communication provides opportunities for researchers to study the mechanism of internet and state control in authoritarian countries. On the other hand, many social scientists themselves confront tightening online censorship during research activities. Internet scrutiny is complicating the situation of social science research nowadays. In this article, I will draw on my own research experience of internet censorship in China and discuss how researchers could better formulate research questions and collect online data in the context of internet scrutiny. Beyond that, I call for an active attitude in tackling the problem and discuss attempts and strategies to navigate sensitivity during research.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
