@@ -26,8 +26,8 @@ publishDate: "2020-12-17T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Intersect* : *The Stanford Journal of Science Technology and Society*
-# publication_short: In *Intersect The Stanford Journal of Science Technology and Society*
+publication: In *Intersect The Stanford Journal of Science Technology and Society*
+publication_short: In *Intersect The Stanford Journal of Science Technology and Society*
 
 abstract: The internet has been tightly censored in many countries to strengthen political control over the years. On the one hand, the suppression of public communication provides opportunities for researchers to study the mechanism of internet and state control in authoritarian countries. On the other hand, many social scientists themselves confront tightening online censorship during research activities. Internet scrutiny is complicating the situation of social science research nowadays. In this article, I will draw on my own research experience of internet censorship in China and discuss how researchers could better formulate research questions and collect online data in the context of internet scrutiny. Beyond that, I call for an active attitude in tackling the problem and discuss attempts and strategies to navigate sensitivity during research.
 
