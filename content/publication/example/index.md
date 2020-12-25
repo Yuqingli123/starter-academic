@@ -26,7 +26,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types:["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Intersect: The Stanford Journal of Science, Technology, and Society*
+publication: In *Wowchemy Conference*
 publication_short: In *Intersect*
 
 abstract: The internet has been tightly censored in many countries to strengthen political control over the years. 
