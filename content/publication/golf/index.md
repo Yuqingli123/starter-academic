@@ -28,7 +28,7 @@ publishDate: "2020-12-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Journal of Sports Science & Coaching*
+publication: In *International Journal of Sports Science & Coaching* (Revise and Resubmit)
 # publication_short: In *Intersect The Stanford Journal of Science Technology and Society*
 
 abstract: This article investigates the earnings of Chinese golf trainers. Through a combination of ethnographic observations, interviews and a quantitative survey analysis, it depicts the social structure of the economy of golf training in China, showing that golf trainers’ playing abilities and reputation, rather than any certificate of competence (e.g., diploma or professional certification), determine their earnings. At the same time, we underline many common characteristics between the artists’ labour market and the golf trainers’ labour market, such as the importance of reputation and a winner-takes-all logic.
