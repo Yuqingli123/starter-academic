@@ -1,5 +1,5 @@
 ---
-title: "Becoming a golf trainer in China The life of an artist?"
+title: "Becoming a golf trainer in China: The life of an artist?"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
